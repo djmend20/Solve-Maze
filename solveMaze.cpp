@@ -1,5 +1,5 @@
 //************************************************************
-// solveMaze.cca
+// solveMaze.cpp
 //   Author:   David Mendoza
 //   Date:     November 2, 2018
 //   Class:    CSCI132, Professor Kadady
